@@ -1,2 +1,2 @@
 # GhidionM.github.io
-Practice makes perfect
+This is about my portfolio.
