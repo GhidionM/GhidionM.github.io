@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 be9aa523b10d2f55ee4b660f194d391ab2301864 GhidionM <Ghidion.Ghirmay@triosstudent.com> 1730640890 -0500	commit (initial): Added html
+be9aa523b10d2f55ee4b660f194d391ab2301864 66edc379349aeff6dc285ab06d9cd30e133b7562 GhidionM <Ghidion.Ghirmay@triosstudent.com> 1730641366 -0500	pull --rebase origin main (start): checkout 66edc379349aeff6dc285ab06d9cd30e133b7562
+66edc379349aeff6dc285ab06d9cd30e133b7562 ca71cad984c411d89d5fa135ae955673ed0efda9 GhidionM <Ghidion.Ghirmay@triosstudent.com> 1730641366 -0500	pull --rebase origin main (pick): Added html
+ca71cad984c411d89d5fa135ae955673ed0efda9 ca71cad984c411d89d5fa135ae955673ed0efda9 GhidionM <Ghidion.Ghirmay@triosstudent.com> 1730641366 -0500	pull --rebase origin main (finish): returning to refs/heads/main
+ca71cad984c411d89d5fa135ae955673ed0efda9 d10a4ac9d94da865440583db15dcfd38950d5de1 GhidionM <Ghidion.Ghirmay@triosstudent.com> 1730642468 -0500	commit: Updated contact section with correct phone image and text separation
+d10a4ac9d94da865440583db15dcfd38950d5de1 896de1c9379ef9793ac73117b25b46d787934fd3 GhidionM <Ghidion.Ghirmay@triosstudent.com> 1730642892 -0500	commit: Added some contents on phone
+896de1c9379ef9793ac73117b25b46d787934fd3 96ea7dd55aed1831bbe0ac25759f8b72253ac557 GhidionM <Ghidion.Ghirmay@triosstudent.com> 1730643503 -0500	commit: change from phone to youtube
+96ea7dd55aed1831bbe0ac25759f8b72253ac557 cb47b9c025db82ac819e892635563c43b45327ed GhidionM <Ghidion.Ghirmay@triosstudent.com> 1730643843 -0500	commit: Updated
+cb47b9c025db82ac819e892635563c43b45327ed 97c04f42f89c9878ae88320da9b9da19105a8270 GhidionM <Ghidion.Ghirmay@triosstudent.com> 1730644053 -0500	commit: Updated new
+97c04f42f89c9878ae88320da9b9da19105a8270 b455eb6f053f683047254e5f3772d09105dfb698 GhidionM <Ghidion.Ghirmay@triosstudent.com> 1730739589 -0500	commit: Added html
+b455eb6f053f683047254e5f3772d09105dfb698 b455eb6f053f683047254e5f3772d09105dfb698 GhidionM <Ghidion.Ghirmay@triosstudent.com> 1730739966 -0500	checkout: moving from main to main
+b455eb6f053f683047254e5f3772d09105dfb698 e82eee82d7b96022a2a02952ecf70b55dc3996de GhidionM <Ghidion.Ghirmay@triosstudent.com> 1730740280 -0500	commit: Added
