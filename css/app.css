@@ -16,7 +16,8 @@ body{
 }
 nav{
   background-color: #409314;
-            padding: 1em;
+  padding: 1em;
+  gap:20px;
            
 }
 header{
